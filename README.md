@@ -17,3 +17,5 @@ Especialy with ScrollRect and Multiplie TMPro-labels
 # Summary
 - 1 MonoBehavior script
 - Editor-time executes too
+- multiline 
+- can use TMP_Text.text with / without RichText symbols
