@@ -22,4 +22,4 @@ Especialy with ScrollRect and Multiplie TMPro-labels
 - work with TMP_InputField
 
 # Known Issues
-- #2 tag <size=N> can break selecting correct most long label
+[ ] https://github.com/mitay-walle/Unity3d-TMPro-Text-AutoSize/issues/2 tag <size=N> can break selecting correct most long label
