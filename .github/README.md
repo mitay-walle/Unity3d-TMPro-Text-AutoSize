@@ -20,3 +20,6 @@ Especialy with ScrollRect and Multiplie TMPro-labels
 - multiline 
 - can use TMP_Text.text with / without RichText symbols
 - work with TMP_InputField
+
+# Known Issues
+- #2 tag <size=N> can break selecting correct most long label
