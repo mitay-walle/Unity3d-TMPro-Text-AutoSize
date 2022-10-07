@@ -19,3 +19,4 @@ Especialy with ScrollRect and Multiplie TMPro-labels
 - Editor-time executes too
 - multiline 
 - can use TMP_Text.text with / without RichText symbols
+- work with TMP_InputField
